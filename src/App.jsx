@@ -1,12 +1,12 @@
 
 import './App.css'
-import avatarImage from './assets/aavatar.png'
+import avatarImage from './assets/avatar.jpg'
 import ProfilePage from './components/ProfilePage'
 
 function App() {
   const user ={
-    name: "razma azizi",
-    username: "@razmazizi",
+    name: "setayesh azizi",
+    username: "@setayeshzizi",
     avatarImage: avatarImage,
     xp: 80,
     lastActive: "Dec 29 2025",
