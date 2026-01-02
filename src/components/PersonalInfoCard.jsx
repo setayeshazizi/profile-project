@@ -1,5 +1,5 @@
 import Row from './Row'
-export default PersonalInfoCard({info}){
+export default PersonalInfoCard({info})
     return (
         <div className="card infoCard">
         <h2 className="cardTitle"> Personal Information </h2>
@@ -14,4 +14,3 @@ export default PersonalInfoCard({info}){
         </div>
     )
 
-}
